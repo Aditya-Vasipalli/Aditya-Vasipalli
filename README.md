@@ -11,9 +11,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/python/37712AB" height="30" alt="python logo"  />
   <img width="12" />
-  <a href="https://www.instagram.com/aditya.ded/"><img src="https://cdn.simpleicons.org/instagram/E4305F" height="30" alt="instagram logo"  /></a>
+    <a href="https://www.linkedin.com/in/aditya-vasipalli-856583203/"><img src="https://cdn.simpleicons.org/linkedin/0A1212C2" height="30" alt="linkedin logo"  /></a>
   <img width="12" />
-  <a href="https://www.linkedin.com/in/aditya-vasipalli-856583203/"><img src="https://cdn.simpleicons.org/linkedin/0A1212C2" height="30" alt="linkedin logo"  /></a>
+  <a href="https://www.instagram.com/aditya.ded/"><img src="https://cdn.simpleicons.org/instagram/E4305F" height="30" alt="instagram logo"  /></a>
   <img width="12" />
 
   <!--
