@@ -1,4 +1,4 @@
-## Hi there 👋
+https://readme-typing-svg.demolab.com/demo/?font=&weight=900&color=6E529E&center=true&random=true&lines=Hi!;I+am+Aditya+Vasipalli;Welcome+to+my+profile
 
 <!--
 **Aditya-Vasipalli/Aditya-Vasipalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
