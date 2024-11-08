@@ -1,4 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&pause=1000&color=6E529E&center=true&random=true&width=435&lines=Hi!;Welcome+to+my+profile)](https://git.io/typing-svg)
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&pause=1000&color=6E529E&center=true&random=true&width=435&lines=I+am+Aditya+Vasipalli)](https://git.io/typing-svg)
 <!--
 **Aditya-Vasipalli/Aditya-Vasipalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
