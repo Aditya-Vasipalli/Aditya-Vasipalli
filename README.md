@@ -16,7 +16,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/instagram/E4305F" height="30" alt="instagram logo"  />
   <img width="12" />
-  <img src="[https://cdn.simpleicons.org/linkedin/0A1212C2](https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BJA2G5kfbT9CGY5Ncgs8zCw%3D%3D)" height="30" alt="linkedin logo"  />
+  <img src="https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BJA2G5kfbT9CGY5Ncgs8zCw%3D%3D" height="30" alt="linkedin logo"  />
   <img width="12" />
   
 
