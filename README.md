@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=22&pause=1000&color=6E529E&center=true&vCenter=true&multiline=true&random=true&width=435&height=91&lines=I'm+Aditya+Vasipalli;Welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=22&pause=1000&color=6E529E&center=true&vCenter=true&multiline=true&random=true&width=435&height=91&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
 <h2>Past Experience</h2>
 <div align="left">
