@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on AI<br>👯 I’m looking to collaborate on  open-source AI/ML projects, fun coding challenges, or anything creative involving code<br>🤝 I’m looking for help with  deployment, and advanced ML concepts<br>🌱 I’m currently learning Deep Learning, Python tricks, and a bit of web dev to support my ML apps<br>⚡ Fun fact, you can't work without music. I swear
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=22&pause=1000&color=6E529E&center=true&vCenter=true&multiline=true&random=true&width=435&height=91&lines=Guess+who+is+working+on+AI!!;Pls+send+help)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
