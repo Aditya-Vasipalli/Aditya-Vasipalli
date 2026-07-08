@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=22&pause=1000&color=6E529E&center=true&vCenter=true&multiline=true&random=true&width=435&height=91&lines=Guess+who+is+working+on+AI!!;Pls+send+help)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=22&pause=1000&color=6E529E&center=true&vCenter=true&multiline=true&random=true&width=435&height=91&lines=Guess+who+is+working+on+AI!!;Open+to+suggestions)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
